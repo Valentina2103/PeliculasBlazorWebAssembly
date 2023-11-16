@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\valentina\\source\\repos\\BlazorPeliculasFinal\\BlazorPeliculasFinal\\Shared\\BlazorPeliculasFinal.Shared.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\valentina\\source\\repos\\BlazorPeliculasFinal\\BlazorPeliculasFinal\\Shared\\BlazorPeliculasFinal.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\valentina\\source\\repos\\BlazorPeliculasFinal\\BlazorPeliculasFinal\\Shared\\BlazorPeliculasFinal.Shared.csproj",
+        "projectName": "BlazorPeliculasFinal.Shared",
+        "projectPath": "C:\\Users\\valentina\\source\\repos\\BlazorPeliculasFinal\\BlazorPeliculasFinal\\Shared\\BlazorPeliculasFinal.Shared.csproj",
+        "packagesPath": "C:\\Users\\valentina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\valentina\\source\\repos\\BlazorPeliculasFinal\\BlazorPeliculasFinal\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\valentina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Blazored.Typeahead": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "CurrieTechnologies.Razor.SweetAlert2": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "Markdig": {
+              "target": "Package",
+              "version": "[0.31.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
